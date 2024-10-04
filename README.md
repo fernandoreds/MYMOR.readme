@@ -1,6 +1,6 @@
 # MYMOR
 
-Mymor is aimed at creating an e-commerce platform with a shopping cart feature, developed with Python for the backend and Angular for the frontend. The goal is to create a seamless shopping experience with secure authentication and efficient cart management.
+Mymor is aimed at creating a clothing store platform that features user registration, login functionality, and a shopping cart for purchasing items. The goal is to create a seamless shopping experience with secure authentication and efficient cart management.
 
 ## Technologies
 - **Backend**: Python, Django
@@ -17,3 +17,4 @@ Mymor is aimed at creating an e-commerce platform with a shopping cart feature, 
 
 Stay tuned for more updates as we develop and refine the platform!
 
+Mymor.
