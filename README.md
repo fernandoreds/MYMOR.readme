@@ -1,6 +1,6 @@
-# MYMOR
+# MYMR
 
-Mymor is aimed at creating a clothing store platform that features user registration, login functionality, and a shopping cart for purchasing items. The goal is to create a seamless shopping experience with secure authentication and efficient cart management.
+MYMR is aimed at creating a clothing store platform that features user registration, login functionality, and a shopping cart for purchasing items. The goal is to create a seamless shopping experience with secure authentication and efficient cart management.
 
 ## Technologies
 - **Backend**: Python, Django
@@ -17,4 +17,4 @@ Mymor is aimed at creating a clothing store platform that features user registra
 
 Stay tuned for more updates as we develop and refine the platform!
 
-Mymor.
+MYMR.
